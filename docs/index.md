@@ -3,9 +3,9 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: 前端宫殿
+  text: 以梦为马，不负韶华
+  tagline: Passion！！！
   image:
     src: /logo.png
     alt: 茂茂物语
